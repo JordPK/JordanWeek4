@@ -7,6 +7,9 @@ TagManager:
   - Coin
   - Obstacle
   - double jump
+  - GameManager
+  - Ground
+  - SafeSpot
   layers:
   - Default
   - TransparentFX
